@@ -63,22 +63,25 @@
    <img src="https://github.com/user-attachments/assets/227be42a-9c95-4f70-aed6-62b84bdaadc5" width="150"/>
   <img src="https://github.com/user-attachments/assets/87879585-084f-43ac-8ba7-8a3c59d53311" width="150"/>
   <img src="https://github.com/user-attachments/assets/a34152db-2e31-4460-a5b5-1758a6b94869" width="150"/>
+  <img src="https://github.com/user-attachments/assets/38ccc77f-773c-4d60-ae48-81e2e3063f87" width="150"/>
    <img src="https://github.com/user-attachments/assets/b3afd4ee-280b-4fff-8178-6f432416ac16" width="150"/>
  
 </p>
 
 ---
 
+
 ## Admin Dashboard
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4f0465b8-4069-40e2-8741-c23e46451045" width="150"/>
   <img src="https://github.com/user-attachments/assets/cb1b97f5-8c04-4640-a2eb-e783b240880f" width="150"/>
-  <img src="https://github.com/user-attachments/assets/f873bdc0-89bc-43a4-9372-65cb6a90fed1" width="150"/>
   <img src="https://github.com/user-attachments/assets/1bedc29b-a978-47e9-88d4-bad8471c7ca3" width="150"/>
   <img src="https://github.com/user-attachments/assets/7b0fd12e-3b3d-4cf9-9ff6-351c6a3ba0e5" width="150"/>
   <img src="https://github.com/user-attachments/assets/8dfb18cc-03a1-4f67-816b-16636cb4575c" width="150"/>
+    <img src="https://github.com/user-attachments/assets/2141cbfc-d6de-440b-92e5-71a671f0797d" width="150"/>
 </p>
+
 
 
 
