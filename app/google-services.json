@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225084654568",
+    "project_id": "grociphy",
+    "storage_bucket": "grociphy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225084654568:android:28cadcc491d67913c3da5d",
+        "android_client_info": {
+          "package_name": "com.example.homepage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225084654568-hfp4v3im3bu9v8rffqqkf85k12ipfuvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homepage",
+            "certificate_hash": "6aa5033dd10569b2bc9be8cc2ca3916106d398c1"
+          }
+        },
+        {
+          "client_id": "225084654568-c1aj0i4hm4ebpp3io8p44123treueanu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiv9vxDoGxVXUIV_rLlB3jEWk7QjInyJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225084654568-c1aj0i4hm4ebpp3io8p44123treueanu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

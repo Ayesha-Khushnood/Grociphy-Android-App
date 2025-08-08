@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    card_view:cardCornerRadius="12dp"
+    card_view:cardElevation="4dp"
+    android:backgroundTint="@color/grey"
+    android:background="@android:color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <!-- Image on the right -->
+        <ImageView
+            android:id="@+id/adminProductImage"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:backgroundTint="@color/white"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/view_delicious_green_grapes" />
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/adminProductTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Orange"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/adminProductImage" />
+
+        <!-- Price -->
+        <TextView
+            android:id="@+id/adminProductPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rs. 150"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="18sp"
+            android:layout_below="@id/adminProductTitle"
+            android:layout_alignStart="@id/adminProductTitle"
+            android:layout_marginTop="16dp" />
+
+        <!-- Description -->
+
+
+        <!-- Edit Button -->
+        <ImageButton
+            android:id="@+id/editProductBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/penbtn"
+            android:background="@android:color/transparent"
+            android:layout_alignBottom="@+id/adminProductImage"
+            android:layout_marginEnd="36dp"
+            android:layout_toStartOf="@id/adminProductImage"
+            android:contentDescription="Edit" />
+
+        <!-- Delete Button -->
+        <ImageButton
+            android:id="@+id/deleteProductBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/deletebtn"
+            android:background="@android:color/transparent"
+            android:layout_alignBottom="@+id/adminProductImage"
+            android:layout_toStartOf="@id/editProductBtn"
+            android:layout_marginEnd="8dp"
+
+            android:contentDescription="Delete" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
